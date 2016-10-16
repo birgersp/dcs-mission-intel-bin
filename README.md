@@ -1,0 +1,1 @@
+# dcs-mission-intel-bin
